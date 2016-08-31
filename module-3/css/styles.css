@@ -5,6 +5,20 @@
 
 h1 {
     font-size: 1.75em;
+    font-family: inherit;
+font-weight: 500;
+line-height: 1.1;
+color: inherit;
+
+}
+.colrr{
+  font-size: 1.75em;
+  font-family: inherit;
+font-weight: 500;
+line-height: 0.8;
+color: inherit;
+color: #333;
+
 }
 
 section {
@@ -21,4 +35,3 @@ section h3 {
 section p {
     padding: 0 6px 4px 6px;
 }
-
